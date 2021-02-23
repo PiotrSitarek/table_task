@@ -28,7 +28,6 @@ const Table = () => {
             })
 
             data.forEach((element) => {
-                console.log(element)
                 const dataRow = document.createElement("tr");
                 taskTable.appendChild(dataRow);
 
