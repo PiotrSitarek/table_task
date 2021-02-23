@@ -1,0 +1,25 @@
+.app__toolContainer {
+  display: flex;
+  width: 90%;
+}
+
+.toolIcon {
+  text-align: center;
+  font-size: .2rem;
+  text-decoration: none;
+  border-right: solid lightskyblue 1px;
+  border-bottom: solid lightskyblue 1px;
+}
+
+.tableHead {
+  text-align: center;
+  font-size: .6rem;
+  text-decoration: none;
+  border-right: solid lightskyblue 1px;
+  border-bottom: solid lightskyblue 1px;
+}
+
+.dataCell {
+  font-size: .6rem;
+  text-align: center;
+}
